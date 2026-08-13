@@ -8,7 +8,7 @@ Single-page, self-contained demo (inline CSS/JS). Tier 1 (Clean Slate) design sy
 - **Location:** Spring Hill, FL 34609 · Hernando County (mobile, comes to you)
 - **Rating:** 5.0 across 61 Google reviews (shown)
 - **Hours:** Open 7 days, 9AM–5PM
-- **Fonts:** JetBrains Mono (display) + Ubuntu Condensed (body)
+- **Fonts:** Patua One (display) + Mulish (body)
 - **Palette:** gunmetal (#23282e/#14181c), racing red (#d81f27), off-white (#f4f2ee)
 - **Tier:** 1
 
